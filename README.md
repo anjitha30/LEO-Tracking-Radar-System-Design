@@ -112,8 +112,7 @@ The system performance was evaluated across range variations, target size uncert
 
 ## Repository Structure
 ├── docs/
-│   ├── LEO_Radar_Detailed_Engineering_Report.pdf   # Complete 17-section system report
-│   └── LEO_Radar_4_Page_Assessment.pdf            # Executive assessment overview
+│   ├── Detailed_Engineering_Report.pdf   # Complete 16-section system report
 └── README.md                                      # System summary and link budget breakdown
 
 ---
